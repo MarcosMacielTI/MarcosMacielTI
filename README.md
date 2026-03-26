@@ -45,9 +45,10 @@ Tenho experiência com desenvolvimento front-end e gosto de trabalhar com interf
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMacielTI&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMacielTI&theme=gotham&layout=compact)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosMacielTI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMacielTI&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+</div>
 
 ---
 

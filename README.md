@@ -15,55 +15,39 @@ Tenho experiência com desenvolvimento front-end e gosto de trabalhar com interf
 
 ## 🤖 Linguagens e Tecnologias
 
-### 💻 Linguagens
-<p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-</p>
+💻 **Linguagens:** 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java, 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python, 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript, 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> Dart, 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> C  
 
-### 🚀 Frameworks
-<p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-</p>
+🚀 **Frameworks:** 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> Flutter  
 
-### 🌐 Desenvolvimento Web
-<p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</p>
+🌐 **Desenvolvimento Web:** 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML, 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS  
 
-### 🗄️ Banco de Dados / Backend
-<p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-</p>
+🗄️ **Banco de Dados / Backend:** 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL, 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> Firebase  
 
-### 🧰 Ferramentas
-<p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</p>
+🧰 **Versionamento:** 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> GitHub  
 
-### 🎨 Design
-<p>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</p>
+🎨 **Design:** 
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma, Canva  
 
-### 📦 Pacote Office
-- Microsoft Office
+📦 **Pacote Office:** Microsoft Office  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MarcosMacielTI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMacielTI&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosMacielTI&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMacielTI&theme=gotham&layout=compact)
 
 ---
 
